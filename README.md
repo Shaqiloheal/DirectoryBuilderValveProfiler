@@ -1,6 +1,6 @@
 # Valve Profile Directory Organizer
 
-This PowerShell script is designed to organize Excel files containing valve profiles into designated directories for the Jura 2 project of November 2023.
+This PowerShell script is designed to organize Excel files containing valve profiles into designated directories for various subsea tree projects.
 
 ## Overview
 
